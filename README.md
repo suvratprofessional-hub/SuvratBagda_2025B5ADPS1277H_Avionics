@@ -9,6 +9,6 @@ I focused on data preprocessing and visualization, leaning on my machine learnin
 ## Task 2
 Now the circuit building and programming challenge. I started with first laying down the components on the tinkercad.I choose LCD_I2C instead of LCD due to is requirement of pins and in-built potentiometer. I relied on AI to help navigate the complexities of the LCD interface setup, while I focused on the coding logic and researching component functions to manage the system state properly. Hardware engineering is outside my comfortzone and expertise, but navigating those technical hurdles to get a fully functional system running was a certainly a challenge.
 
-
+**[View Tinkercad Circuit Simulation](https://www.tinkercad.com/things/8NepuSTHSAZ-suvratbagda2025b5ps1277h)**
 <img width="1123" height="625" alt="Avionics_circuit" src="https://github.com/user-attachments/assets/abdb8e80-ff3e-485b-8761-ab5ddeff69b5" />
 
